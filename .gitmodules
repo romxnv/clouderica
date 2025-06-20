@@ -1,0 +1,6 @@
+[submodule "clouderica-backend"]
+	path = clouderica-backend
+	url = https://github.com/romxnv/clouderica-backend.git
+[submodule "clouderica-frontend"]
+	path = clouderica-frontend
+	url = https://github.com/romxnv/clouderica-frontend.git
